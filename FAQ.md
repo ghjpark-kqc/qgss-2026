@@ -164,4 +164,4 @@ You can configure session check-ins, idle timeout, and auto-shutdown in the qBra
 https://docs.qbraid.com/v2/lab/user-guide/settings
 
 
-(Thanks to: [Maja](https://github.com/Q-Bees), [Dustin](https://github.com/phasefactor), [Dimple]() and awesome QGSS mentors)
+(Thanks to: [Maja](https://github.com/Q-Bees), [Dustin](https://github.com/phasefactor), [Dimple](https://github.com/dimple12M) and awesome QGSS mentors)
